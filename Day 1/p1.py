@@ -1,7 +1,7 @@
 
 with open("input.txt") as f:
     value = f.readlines() 
-print(value)
+#print(value)
 
 floor = 0 
 
