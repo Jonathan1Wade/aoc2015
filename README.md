@@ -7,4 +7,4 @@ I am teaching myself Python as I go, I will fail more than I succeed but hope ea
 
 I will hash out where I have made mistakes but leave them in here.  
 
-I am going back to pervious years to see how I can improve my skills by giving myslef more of the basic challenges. 
+I am going back to pervious years to see how I can improve my skills by giving myself more of the basic challenges. 
